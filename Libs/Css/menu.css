@@ -1,0 +1,11 @@
+
+.men{
+	background:linear-gradient(#fac754, #f8ac00); 
+  }
+.proccesos a:hover {
+					text-decoration:none;/*saca subr*/
+					display:block;
+					text-align:center;
+				  color: rgb(230, 184, 99);
+				  background-color: rgb(0,0,0);
+				   }

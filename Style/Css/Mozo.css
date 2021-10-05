@@ -1,0 +1,20 @@
+.titulo a{
+                    
+    font: bold 1.5em/1.5 'trebuchet MS', Arial, Helvetica;/*tipo deletra*/
+   text-decoration:none;/*saca subr*/
+   color:white;
+   
+   padding:10px;
+   
+}
+.titulo{
+
+text-align:center;
+background-color: #f90;
+}
+.titulo:hover{
+        box-shadow: 0px 0px 20px #848484;
+        background-color: rgb(199, 181, 146);
+         
+    } 
+      

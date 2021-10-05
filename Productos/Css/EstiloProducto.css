@@ -1,0 +1,35 @@
+.todo{
+    margin:0 auto;
+    margin-top:4%;
+    padding: 0;
+    
+}
+.titulo{
+    position: relative;
+    right: 9%;
+}
+.titulo1{
+  position: relative;
+  right: 48%;
+}
+
+.dataTables_filter /*le doy estylo al cuadro de busqueda*/
+{
+  position: absolute; 
+  top: -40px;
+   right:30px;
+}
+
+td {
+    width: 6%;
+}
+.img
+{
+    width:40%;  
+    display:block;
+}
+
+.botones{
+    display: flex;
+  justify-content: center;
+}

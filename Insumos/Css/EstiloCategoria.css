@@ -1,0 +1,49 @@
+.todo{
+    margin:0 auto;
+    margin-top:4%;
+    padding: 0;
+   
+}
+.titulolista{
+    position: relative;
+    right: 25%;
+}
+.lista{
+    position: relative;
+    right: 30%;
+}
+.listaup{
+    position: relative;
+    right: 20%;
+}
+
+td {
+    width: 10%;
+    word-wrap: break-word;
+}
+
+.img
+{
+    width:30%;  
+    display:block;
+}
+.titulo{
+    position: relative;
+    right: 15%;
+}
+.titulo2{
+    position: relative;
+    right: 12%;
+}
+.titulo3create{
+    position: relative;
+    right: 40%;
+}
+.titulo4create{
+    position: relative;
+    right: 26%;
+}
+.botones{
+    display: flex;
+  justify-content: center;
+}

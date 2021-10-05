@@ -1,0 +1,27 @@
+.todo{
+    margin:0 auto;
+    margin-top:4%;
+    padding: 0;
+   
+}
+.portada{
+    background-color:rgb(108,059,042);
+     
+}
+
+.state{
+    border-radius: 50%;
+}
+.op{
+    color:rgb(108,059,042);
+    text-align: left;
+    font: bold 1.2em/0.4 'trebuchet MS', Arial, Helvetica;/*tipo deletra*/
+}
+.card:hover {
+    opacity: .85;
+box-shadow: 0px 0px 15px #848484;
+
+        }
+.state, .state-full { cursor: pointer; }
+            .state-full { display: none; }
+

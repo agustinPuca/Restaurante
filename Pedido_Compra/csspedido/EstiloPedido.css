@@ -1,0 +1,43 @@
+.todo{
+    margin:0 auto;
+    margin-top:4%;
+    padding: 0;
+   
+}
+
+.titulo0create{
+    position: relative;
+    left: 5%;
+}
+.titulo3create{
+    position: relative;
+    right: 10%;
+}
+.titulo1create{
+    position: relative;
+    right: 40%;
+}
+.titulolista{
+    position: relative;
+    right: 43%;
+}
+.lista{
+    position: relative;
+    right: 20%;
+}
+.dataTables_filter /*le doy estylo al cuadro de busqueda*/
+{
+  display: none;}
+td {
+    width: 6%;
+}
+.img
+{
+    width:20%;  
+    display:block;
+}
+
+.botones{
+    display: flex;
+  justify-content: center;
+}

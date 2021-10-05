@@ -1,0 +1,30 @@
+.todo{
+    margin:0 auto;
+    margin-top:4%;
+    padding: 0;
+   
+}
+.titulo{
+    position: relative;
+    right: 13%;
+}
+.modal-content{
+    box-shadow: 0px 0px 5px #848484;
+}
+
+td { 
+    width:15%;
+}
+
+.subir{
+    padding: 5px 10px;
+    background: #f55d3e;
+    color:#fff;
+    border:0px solid #fff;
+}
+
+ 
+.subir:hover{
+    color:#fff;
+    background: #f7cb15;
+}
